@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+faiss-cpu
+ragas
+langchain-openai
+tiktoken
+pypdf
+datasets
